@@ -15,3 +15,11 @@ This project analyzes dealership data including used and new cars.
 ## 📊 Business Value
 The analysis helps management make better decisions in pricing and inventory planning.
 [Analysis of Used and New Car Dealership Data (3).pdf](https://github.com/user-attachments/files/25370151/Analysis.of.Used.and.New.Car.Dealership.Data.3.pdf)
+
+## 🚀 Open in Google Colab
+
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OsKhalid1/car-dealership-data-analysis/blob/main/car_sales_data.ipynb)
+
+
