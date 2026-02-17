@@ -10,11 +10,14 @@ This project analyzes dealership data including used and new cars.
 
 ## 🛠 Tools Used
 - Excel
-- Python (Pandas, Matplotlib)
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
 - 
 ## 📊 Business Value
 The analysis helps management make better decisions in pricing and inventory planning.
-[Analysis of Used and New Car Dealership Data (3).pdf](https://github.com/user-attachments/files/25370151/Analysis.of.Used.and.New.Car.Dealership.Data.3.pdf)
+[Analysis of Used and New Car Dealership Data (3).pdf](https://drive.google.com/file/d/144M9rZIY9VqInQ8L8Y1-l_szvFKdhbCa/view?usp=sharing)
 
 ## 🚀 Open in Google Colab
 
