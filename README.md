@@ -24,5 +24,5 @@ The analysis helps management make better decisions in pricing and inventory pla
 
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/OsKhalid1/car-dealership-data-analysis/blob/main/Car_DealerShip_Data.ipynb)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wRlFgskgK4ZJ9WXCoZLQ8A9bEog9-m5m)
 
